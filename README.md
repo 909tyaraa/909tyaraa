@@ -8,6 +8,6 @@ an ordinary girl who is very excited to try and learn new things!
 
 - 🧸 Pronouns: **she/her**
 
-- 🧝🏻‍♀️ Fun fact: **i luv penguin , milo , and anime <3**
+- 🧝🏻‍♀️ Fun facts: **i luv penguin , milo , anime, and you ofc /jk <3**
 <!--
 **909tyaraa/909tyaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
