@@ -1,5 +1,5 @@
 ### hola! it's me tyara 🙌🏻
-an ordinary girl who is very excited to try and learn new things!
+just an ordinary girl who is very excited to try and learn new things!
 - 🐣 I’m currently working on **SMK TELKOM MALANG**
 
 - 💐 I’m currently learning **Javascript**
