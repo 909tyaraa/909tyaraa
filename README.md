@@ -7,7 +7,7 @@
 
 - 💐 I’m currently learning **Javascript**
 
-- 💌 Know me more on [tyaraawr.carrd.co](tyaraawr.carrd.co)
+- 💌 Know me more on [https://tyaraawr.carrd.co/](https://tyaraawr.carrd.co/)
 
 - 🧸 Prounouns **she/her**
 
