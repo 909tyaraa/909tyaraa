@@ -1,6 +1,6 @@
 <h1 align="center">hola! 🙌🏻, i'm Firstyara Putri Hilmanes</h1>
 <h3 align="center">⌯✧ ₊˚ an ordinary girl who likes to learn something new ﹆ • ♡</h3>
-<img align="center" alt="Coding" width="400" src="https://static.myfigurecollection.net/upload/pictures/2020/12/23/2588878.gif">
+<img align="right" alt="Coding" width="400" src="https://static.myfigurecollection.net/upload/pictures/2020/12/23/2588878.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyarawrr&label=Profile%20views&color=0e75b6&style=flat" alt="tyarawrr" /> </p>
 
