@@ -1,6 +1,6 @@
 <h1 align="center">hola! 🙌🏻, i'm Firstyara Putri Hilmanes</h1>
 <h3 align="center">⌯✧ ₊˚ an ordinary girl who likes to learn something new ﹆ • ♡</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c2ed5416a2d8e57ecd561ddd9117927b/5381e187794a2704-05/s1280x1920/332385f51f2ef3fcfbf0e50273f63d14001a54f4.gifv">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/85eba2b32aba4528ec157468da05da6f/fcfe5c1108842def-8c/s540x810/ec61853bd50b91de95ad173080a1dc9e4e927182.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyarawrr&label=Profile%20views&color=0e75b6&style=flat" alt="tyarawrr" /> </p>
 
