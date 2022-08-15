@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaaeuyy&label=Profile%20views&color=0e75b6&style=flat" alt="ayaaeuyy" /> </p>
 
-- 🩰 I’m currently working at **SMK TELKOM MALANG**
+- 🩰 I’m currently studying at **SMK TELKOM MALANG**
 
 - 💐 I’m currently learning **Javascript**
 
