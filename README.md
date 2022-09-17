@@ -1,7 +1,7 @@
 <h1 align="center">hola! 🙌🏻, i'm Firstyara Putri</h1>
 
 <p align="center">
-  <img width=”1000" height=”1000" src="https://i.pinimg.com/originals/d7/33/b7/d733b78b02634a4a8101687dc1d096dc.gif" alt="shinomiya">
+  <img width=”1000" height=”1000" src="https://pin.it/3v8ntG6" alt="shinomiya">
   </p>
   
 <h3 align="center">⌯✧ ₊˚ an ordinary girl who likes to learn something new ﹆ • ♡</h3>
