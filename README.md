@@ -1,7 +1,7 @@
 <h1 align="center">hola! 🙌🏻, i'm Firstyara Putri</h1>
 
 <p align="center">
-  <img width=”1000" height=”1000" src="https://c.tenor.com/GwBtNQilRp8AAAAC/kaguya-sama-love-is-war.gif" alt="shinomiya">
+  <img width=”1000" height=”1000" src="https://c.tenor.com/DRqm5MskvK0AAAAd/kaguya-kaguyasama.gif" alt="shinomiya">
   </p>
   
 <h3 align="center">⌯✧ ₊˚ an ordinary girl who likes to learn something new ﹆ • ♡</h3>
