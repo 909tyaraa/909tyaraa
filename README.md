@@ -1,7 +1,7 @@
 <h1 align="center">hola! 🙌🏻, i'm Firstyara Putri</h1>
 
 <p align="center">
-  <img width=”1000" height=”1000" src="https://i.imgur.com/GGTkAvq.gif" alt="shinomiya">
+  <img width=”1000" height=”1000" src="https://github.com/ayaaeuyy/ayaaeuyy/issues/1#issue-1377484470" alt="shinomiya">
   </p>
   
 <h3 align="center">⌯✧ ₊˚ an ordinary girl who likes to learn something new ﹆ • ♡</h3>
