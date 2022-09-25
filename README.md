@@ -12,7 +12,7 @@
 
 - 💐 I’m currently learning **Javascript**
 
-- 💌 Know me more on [https://ayaaeuyy.carrd.co/)
+- 💌 Know me more on https://ayaaeuyy.carrd.co/
 
 - 🧸 Prounouns **she/her**
 
